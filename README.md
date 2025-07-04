@@ -42,7 +42,6 @@ npm run dev
 
 ### 📁 Create .env inside /server:
 
-```bash
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/docsign
 JWT_SECRET=your_secret
@@ -56,10 +55,9 @@ cd client
 npm install
 npm run dev
 
-```
+
 ### ✅ Create a .env file inside the /client folder:
 
-``bash
 VITE_API_URL=http://localhost:5000/api
 
 
