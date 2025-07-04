@@ -46,6 +46,7 @@ npm run dev
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/docsign
 JWT_SECRET=your_secret
+---
 
 ### 🔹 Frontend (React + Vite)
 
